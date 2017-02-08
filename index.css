@@ -1,0 +1,44 @@
+
+
+
+
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	text-align:left;
+	text-indent: 10px;
+}
+
+img {
+	/*position: absolute;
+	top: 20px;
+	right: 20px;
+	padding-left: 20px;*/
+	padding-right: 20px;
+	height: 400px;
+	width: 300px;
+	
+}
+
+p {
+	padding: 10px;
+	
+	height: 80px;
+	text-align: justify;
+
+}
+
+#leftside {
+	float: left;
+	width: calc(100% - 350px);
+	min-width: 200px;
+	padding-right: 20px;
+}
+
+#main {
+	/*min-width: 650px;*/
+}
+
+
