@@ -2,7 +2,7 @@ Name: Minal Mirpuri
 Assignment 1 : Your Portfolio 
 February 8th, 2017
 
-This project uses HTML5 and CSS to create a personal portfolio for myself. It took me approximately 6-7 hours for this project. I discussed the project with some of my friends - Nikita Rao, Jordan Bacher and Bianca Capretta. I have created the following files and was able to create a functioning website. However, I don't think I did it in the best way because I could have had one CSS file that would style all my webpages. 
+This project uses HTML5 and CSS to create a personal portfolio for myself. It took me approximately 6-7 hours for this project. I discussed the project with some of my friends - Nikita Rao, Jordan Bacher and Bianca Capretta. I have created the following files and was able to create a functioning website. I correctly implemented my html and css files. However, I don't think I did it in the most efficient way because I could have had one CSS file that would style all my webpages instead of having 3. 
 
 List of files
 

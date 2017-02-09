@@ -1,7 +1,5 @@
 
 
-
-
 body {
 	background-color: lightblue;
 }
@@ -15,19 +13,15 @@ img {
 	padding-right: 20px;
 	height: 400px;
 	width: 300px;
-	
 }
 
 p {
 	padding: 10px;
-	
 	height: 80px;
 	text-align: justify;
-
 }
 
 a {
-	
 	padding: 10px;
 	font-size: 25px;
 }
